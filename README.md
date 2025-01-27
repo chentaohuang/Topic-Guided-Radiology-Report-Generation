@@ -3,7 +3,7 @@
 The code of the paper:  Report is a Mixture of Topics: Topic-Guided Radiology Report
  Generation
 
-### The code will be continuously optimized to enhance both simplicity and convenience in deployment.
+### The code will be continuously formulated to enhance both simplicity and convenience in deployment.
 
 ## Step 1: Pre-process
 
