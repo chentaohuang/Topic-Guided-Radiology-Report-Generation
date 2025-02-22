@@ -1,6 +1,6 @@
 # TGRG
 
-The code of the paper:  Report is a Mixture of Topics: Topic-Guided Radiology Report
+The code of the paper:  Report is a Mixture of Topics: Topic-Guided Radiology Reporte
  Generation
 
 ### The code will be continuously formulated to enhance both simplicity and convenience in deployment.
@@ -18,7 +18,7 @@ Since the process is tedious and time-consuming, we have uploaded the constructe
 python main.py 
 ```
 
-# Acknowledgment:
+# Acknowledgement:
 The code implementation is modified from the project: https://github.com/zhjohnchan/R2Gen
 
 The code for extracting topic n-grams is adapted from the project: https://github.com/wjhou/ORGan
