@@ -1,9 +1,9 @@
 # TGRG
 
-The code of the paper:  Report is a Mixture of Topics: Topic-Guided Radiology Reporte
+The code of the paper:  Report is a mixture of topic: Topic-Guided Radiology Reporte
  Generation
 
-### The code will be continuously formulated to enhance both simplicity and convenience in deployment.
+### The code would be formulated to enhance both simplicity and convenience in deployment, if time is available.
 
 ## Step 1: Pre-process
 
