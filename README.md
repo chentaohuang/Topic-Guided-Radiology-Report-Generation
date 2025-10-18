@@ -1,6 +1,6 @@
 # TGRG
 
-[Medical Image Analysis] Report is a mixture of topic: Topic-Guided Radiology Reporte
+[Medical Image Analysis] Report is a mixture of topics: Topic-Guided Radiology Report
  Generation
 
 
